@@ -1,0 +1,4 @@
+sph0645_idf/build/
+sph0645_idf/managed_components/
+sph0645_idf/dependencies.lock
+sph0645_idf/sdkconfig.old
